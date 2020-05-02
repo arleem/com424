@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+
+
+ol li{text-align: center;}
+p {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+div {text-align: center;}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 1px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+ul.container {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-width:100%;
+
+
+
+</style>
+
+
+<body>
+<div>
+<a href="#home">
+<div><a id="home"> </a></div>
+</a>
+
+
+<p><img src="holmeslogo.png" alt="Holmes Logo" style="max-width:100%;height:auto;">></p>
+
+
+
+<p><img src="oval.png" alt="Holmes humidifier" style="width:300px;height:300px;"></p>
+</div>
+<h1>Holmes Humidifier</h1>
+<h2>Directions to safely place your new Holmes Humidifier in your home</h2>
+<nav>
+
+<div>
+
+<li><a href="#safetyprecautions">Important Safety Precautions</a></li>
+<li><a href="#roomplace">Directions for Placement</a></li>
+<li><a href="#other">Other Important Information</a></li>
+</div>
+
+<br>
+<div>
+</nav>
+<div id="safetyprecautions">
+<h2>Important Safety Precautions</h2>
+<h3>READ BEFORE PLACEMENT: RISK OF HARM!</h3>
+
+<div>
+<div class="row">
+  <div class="column">
+    <img src="indoor.png" alt="couch and lamp icon" style="max-width:100%;height:auto;">
+  </div>
+  <div class="column">
+    
+<img src="child1.png" alt="do not allow children to use" style="max-width:100%;height:auto;">
+  </div>
+  <div class="column">
+    <img src="fire.png" alt="hazard-fire" style="max-width:100%;height:auto;">
+  </div>
+
+</div>
+</div>
+
+
+
+
+<div>
+
+<li>Hazard: Risk of fire, electric shock and injury if used incorrectly.</li>
+<li>Do not use if plug or cord is damaged</li>
+<li>Only for indoor use</li>
+<li>Do not have it accesible to children</li>
+<li>Always keep humidifier away from heat sources</li>
+
+<a href="#home">Click to return to Home</a></p1>
+</div>
+
+
+
+<div id="roomplace">
+<h2>Directions for Placement</h2>
+<h3>Follow these steps to safely place the Holmes humidifier in your home</h3>
+<h4> For extra help, please refer to the diagram 1a.</h4>
+<p><img src="diagram.png" alt="diagram showing where to place" style="max-width:100%;height:auto;">></p>
+</div>
+
+<div>
+ <ul class="container">
+<a>1. Pick an open area in your home that is out of common pathways.</a><br>
+<a>2. Pick a firm, flat level surface.</a><br>
+<a>3. Make sure the desired surface is at least 4 inches (10cm) away from the nearest wall.</a><br>
+<a>4. The future pathway of the cord to the electrical outlet should not be near any heat registers such as radiators, heaters, or even stoves.</a><br>
+<a>5. Use both hands to place humidifier full of water on desired surface.</a><br>
+<a>6. Place cord on top of any rugs.</a><br>
+<a>7. Plug the humidifier directly into a 120V electrical outlet.</a><br>
+<a>8. Enjoy. When you are finished, unplug and allow it to cool completely before moving.</a>
+</div>
+
+
+
+<h3>Adjusting the setup</h3>
+<p><img src="inoutlet.png" alt="humidifier inlet and outlet not blocked" style="max-width:100%;height:auto;"></p>
+<div>
+
+<li>Make sure there is nothing blocking the air inlet or moisture outlet</li>
+<li>Position so that the moisture outlet is not facing the wall; it can cause damage to wallpaper (positioning can be seen in 1a).</li>
+
+</div>
+
+
+<p><img src="moisturemeter.png" alt="humidity meter" style="max-width:100%;height:auto;"></p>
+<h3>Excessive Humidity Warning</h3>
+<p>Keep humidifier on only until sufficient moistness is achieved, then turn off. Excessive humidity can cause water condensation on windows or furniture and may cause damage.</p>
+<div>
+</div>
+
+<div id="other">
+</div>
+<p><a href="#home">Click to return to Home</a></p>
+<br><br>
+<h2>Other Important Information</h2>
+
+<li> Consider placing a waterproof mat or pad underneath humidifier to prevent water damage.</li>
+<li>Never place humidifier on rug or carpet.</li>
+<li>Do not use in closed rooms.</li>
+<li>Do not drop foreign or domestic objects into inlet or outlet.</li>
+<li>Misuse may result in fire, shock,or injury. </li>
+
+<h3>Product Specifications can be seen below.</h3>
+<img src="product.jpg" alt="humidifier specs" style="max-width:100%;height:auto;">
+
+<p><a href="#home">Click to return to Home</a></p>
+</div>
+
+
+
+
+</body>
+</html>
